@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Jacek!
-- 👀 I’m interested in Web Delopment, Python, AI & Linux OSes.
-- 🌱 I’m currently learning React and React Native.
-- 💞️ I’m looking to collaborate on any Javascript/Python project that would require Beginner+ knowledge. In particular, I would like to contribute to Open Source projects.
+- 👀 I’m interested in Web Development, Python, AI & Linux OSes.
+- 🌱 I’m currently learning React.
+
+<img src=https://www.codewars.com/users/jglowacz/badges/large>
 
 <!---
 jglowacz/jglowacz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
