@@ -2,7 +2,7 @@
 - 💻 I'm Junior DevOps Engineer
 - 👀 I’m interested in Cloud, Web Development, JS, Python, AI & Linux OSes.
 - 🌱 I’m currently learning Kubernetes
-- 
+
 <img src=https://www.codewars.com/users/jglowacz/badges/large>
 
 <!---
